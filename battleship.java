@@ -39,7 +39,7 @@ public class battleship {
                     System.out.print(" ");
                 }
                 if(board[row][col] == 3){
-                    System.out.print("X");
+                    System.out.print("%");
                 }
                 if(board[row][col] == 4){
                     System.out.print("*");
